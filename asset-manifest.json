@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.20128897.css",
+    "main.js": "/react-gh-pages/static/js/main.b612b750.js",
+    "static/media/icon-image.png": "/react-gh-pages/static/media/icon-image.2deab22d7b8f5cc7fdbc.png",
+    "static/media/celso.jpg": "/react-gh-pages/static/media/celso.22841e54c183567bd12c.jpg",
+    "static/media/hershys.jpg": "/react-gh-pages/static/media/hershys.bb71680b2deedc3a9f4f.jpg",
+    "static/media/luneta.jpg": "/react-gh-pages/static/media/luneta.b9d700481438eff4d86f.jpg",
+    "static/media/backdrop-image.jfif": "/react-gh-pages/static/media/backdrop-image.cb88f2d2ddd18e91a0e6.jfif",
+    "static/media/main-image.jpg": "/react-gh-pages/static/media/main-image.3f5d39b57cb00a2c2057.jpg",
+    "static/media/shakira.jpg": "/react-gh-pages/static/media/shakira.e9334b65a42fb01b3f3a.jpg",
+    "static/media/rocco.jpg": "/react-gh-pages/static/media/rocco.f404f0ae4adf25a25fd8.jpg",
+    "static/media/ojitos.jpg": "/react-gh-pages/static/media/ojitos.dc09bd3dac917191195b.jpg",
+    "static/media/peluche.jpg": "/react-gh-pages/static/media/peluche.cdc4395b1cc9ef953577.jpg",
+    "static/media/canelo.jpg": "/react-gh-pages/static/media/canelo.0abb282f541d8363d8d7.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.20128897.css.map": "/react-gh-pages/static/css/main.20128897.css.map",
+    "main.b612b750.js.map": "/react-gh-pages/static/js/main.b612b750.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20128897.css",
+    "static/js/main.b612b750.js"
+  ]
+}
